@@ -70,10 +70,23 @@ https://codepen.io/Tcallums/pen/oNjpmBx
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
     rm, it will delete file without warning
     34. Why should I use version control? 
-    it
+    it helps teams solve problems by tracking every individual change by contributor
     35. How often should I commit to github?
-    36. What is the command we would use to push our repo up to github? 
+    when you add a new feature thats worth comminting or every 20 mins
+    36. What is the command we would use to push our repo up to github?
+     git push
     37. Walk me through Lambda's git flow. 
+    create your own version of repo
+    add you TL as collaborator
+    clone your repo
+    in Gitbash us cd to go to directory
+    use git clone paste link
+    cd <repo-name>
+    use git checkout -b to create your own branch
+    git add .
+    git commit -m
+    git push
+
 
 Stretch Questions
 
